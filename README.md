@@ -26,3 +26,10 @@ Motherboad for LPCxpresso1769 and Pololu DRV8825 or compatible for running the a
 
 -flowmeter connector with monitoring (laser cooling pump?)
 
+#####What needs to be done?
+
+-double check everything
+
+-fan tacho connection to lpc
+
+-solution for AVCC not broken out?
