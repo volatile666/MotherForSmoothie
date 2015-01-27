@@ -24,6 +24,7 @@ Motherboad for LPCxpresso1769 and Pololu DRV8825 or compatible for running the a
 
 -fan monitoring (for a critical fan)
 
+-produce a prototype!
 -flowmeter connector with monitoring (laser cooling pump?)
 
 #####What needs to be done?
