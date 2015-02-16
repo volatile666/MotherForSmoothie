@@ -29,8 +29,4 @@ Motherboad for LPCxpresso1769 and Pololu DRV8825 or compatible for running the a
 
 #####What needs to be done?
 
--double check everything
-
--fan tacho connection to lpc
-
--solution for AVCC not broken out?
+-double check the things not in red boxes
